@@ -50,14 +50,6 @@
             <goals>
                 <goal>deploy-file</goal>
             </goals>
-            <configuration>
-                <file>pom.xml</file>
-                <url>http://18.191.179.36:8081/#admin/repository/repositories:maven-releases</url>
-                <groupId>deploymentRepo</groupId>
-                <artifactId>maven-releases</artifactId>
-                <version>2.8.2</version>
-                <packaging>jar</packaging>
-            </configuration>
         </execution>
     </executions>
 </plugin>
