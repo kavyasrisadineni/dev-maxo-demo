@@ -47,7 +47,7 @@
 	<repository>
 		<id>maven-releases</id>
 		<name>Internal Releases</name>
-		<url>http://18.222.183.138:8081/#browse/browse/components:maven-releases</url>
+		<url>http://18.222.183.138:8081//repository/maven-releases</url>
 	</repository>
 	  
 </distributionManagement>
